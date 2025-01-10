@@ -1,1 +1,1 @@
-# text_editor
+# basic_text_editor
